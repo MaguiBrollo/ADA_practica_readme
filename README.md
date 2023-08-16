@@ -9,7 +9,7 @@
                <li>Git/GitHub</li>
             </ul>
       </li>
-      <li>Profesora de Informàtica</li>
+      <li>Profesora de Informáica</li>
    </ul>
 
 <p align="center">
