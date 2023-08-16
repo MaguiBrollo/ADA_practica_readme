@@ -1,4 +1,5 @@
 ### Hi there 👋
+Estudiante de Frontend (HTML, CSS, JavaScript) Backend (Java, Mysql, JPA Hibernate/EclipseLink) Git/GitHub Profesora de Informática
 
 <!--
 **MaguiBrollo/MaguiBrollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
