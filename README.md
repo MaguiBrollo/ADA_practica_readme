@@ -1,3 +1,4 @@
+<html style=" background-color=grey">
 <h1 align="center"> GitHub de Magui</h1>
 
 <h4><b> Estudiante de:</b></h4>
@@ -12,7 +13,7 @@
    <img src="https://github.com/MaguiBrollo/MaguiBrollo/assets/33180142/6175dda3-4d5d-4c8a-899e-cdfcdd54a498">
   </p>
 
-
+</html>
 
 <!--
 **MaguiBrollo/MaguiBrollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
