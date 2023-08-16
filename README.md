@@ -1,9 +1,11 @@
 <h1 align="center"> GitHub de Magui</h1>
 
-<h4><b> Estudiante</b></h4>
-* Frontend (HTML, CSS, JavaScript)<br>
-* Backend (Java, Mysql, JPA Hibernate/EclipseLink)<br>
-* Git/GitHub.<br>
+<h4><b> Estudiante de:</b></h4>
+<lo> 
+   <li>Frontend (HTML, CSS, JavaScript)</li>
+   <li>Backend (Java, Mysql, JPA Hibernate/EclipseLink)</li>
+   <li>Git/GitHub</li>
+</lo>
 <h4><b>Profesora de Informática</b></h4>
 
 <p align="left">
