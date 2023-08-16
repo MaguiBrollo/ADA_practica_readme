@@ -1,13 +1,13 @@
 
 <h1 align="center"> GitHub de Magui</h1>
 
-<h4><b>-Estudiante de:</b></h4>
+<h4><b>**Estudiante de:**</b></h4>
 <lo> 
    <li>Frontend (HTML, CSS, JavaScript)</li>
    <li>Backend (Java, Mysql, JPA Hibernate/EclipseLink)</li>
    <li>Git/GitHub</li>
 </lo>
-<h4><b>-Profesora de Informática</b></h4>
+<h4><b>**-Profesora de Informática**</b></h4>
 
 <p align="left">
    <img src="https://github.com/MaguiBrollo/MaguiBrollo/assets/33180142/6175dda3-4d5d-4c8a-899e-cdfcdd54a498">
