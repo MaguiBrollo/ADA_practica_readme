@@ -3,11 +3,13 @@
 
 <lo>
    <li><b>Estudiante de:</b></li>
+  <li>
    <lo> 
       <li>Frontend (HTML, CSS, JavaScript)</li>
       <li>Backend (Java, Mysql, JPA Hibernate/EclipseLink)</li>
       <li>Git/GitHub</li>
    </lo>
+     </li>
    <li><b>Profesora de Informática</b></li>
 </lo>  
 
