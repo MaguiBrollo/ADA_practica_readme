@@ -1,17 +1,16 @@
 
 <h1 align="center"> GitHub de Magui</h1>
 
-<lo>
-   <li><b>Estudiante de:</b></li>
-  <li>
-   <lo> 
-      <li>Frontend (HTML, CSS, JavaScript)</li>
-      <li>Backend (Java, Mysql, JPA Hibernate/EclipseLink)</li>
-      <li>Git/GitHub</li>
-   </lo>
-     </li>
-   <li><b>Profesora de Informática</b></li>
-</lo>  
+ <ol>
+      <li>Estudiante de:
+            <ul>
+               <li>rontend (HTML, CSS, JavaScript)</li>
+               <li>Backend (Java, Mysql, JPA Hibernate/EclipseLink)</li>
+               <li>Git/GitHub</li>
+            </ul>
+      </li>
+      <li>Profesora de Informàtica</li>
+   </ol>
 
 <p align="center">
    <img src="https://github.com/MaguiBrollo/MaguiBrollo/assets/33180142/6175dda3-4d5d-4c8a-899e-cdfcdd54a498">
