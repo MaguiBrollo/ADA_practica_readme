@@ -1,10 +1,10 @@
 ### Hola 👋
-###- Estudiante de:
+###Estudiante de:
 * Frontend (HTML, CSS, JavaScript)
 * Backend (Java, Mysql, JPA Hibernate/EclipseLink)
 * Git/GitHub.
-###- Profesora de Informática
-.
+###Profesora de Informática
+
 ![image](https://github.com/MaguiBrollo/MaguiBrollo/assets/33180142/6175dda3-4d5d-4c8a-899e-cdfcdd54a498)
 
 
