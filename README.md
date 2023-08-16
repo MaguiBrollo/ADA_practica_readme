@@ -2,13 +2,13 @@
 <h1 align="center"> GitHub de Magui</h1>
 
 <lo>
-   <li><h4><b>Estudiante de:</b></h4></li>
+   <li><b>Estudiante de:</b></li>
    <lo> 
       <li>Frontend (HTML, CSS, JavaScript)</li>
       <li>Backend (Java, Mysql, JPA Hibernate/EclipseLink)</li>
       <li>Git/GitHub</li>
    </lo>
-   <li><h4><b>Profesora de Informática</b></h4> </li>
+   <li><b>Profesora de Informática</b></li>
 </lo>  
 
 <p align="center">
