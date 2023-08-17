@@ -1,7 +1,7 @@
 
 <h1 align="center"> GitHub de Magui</h1>
 
-## **Quén hago:**
+## **Qué hago:**
 
  <ul>
       <li>Estudiante de:
