@@ -1,7 +1,7 @@
 
 <h1 align="center"> GitHub de Magui</h1>
-## .
-Mi permanente desafío de aprender más sobre el maravilloso mundo de la programación.<br>
+
+<h3>Mi permanente desafío de aprender más sobre el maravilloso mundo de la programación.<br></h3>
 
 ## **Qué hago:**
 
